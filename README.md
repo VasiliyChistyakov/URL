@@ -2,7 +2,7 @@
 
 URL app based on SwiftBook.ru assignment.
 
--
--
+- AlamofireNetwork
+- URLsession
 -
 -
